@@ -1161,6 +1161,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 80.01) (xy 175.26 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "190f8c87-cb15-4516-9f10-3e1f5ead6908")
+	)
+	(wire
+		(pts
 			(xy 115.57 101.6) (xy 115.57 124.46)
 		)
 		(stroke
@@ -1863,6 +1873,73 @@
 			(project ""
 				(path "/3eeec553-5bc7-40ba-aaf7-7113d1b1d799"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.26 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c8d69f0-738e-4505-8f58-d57894a70d3a")
+		(property "Reference" "#PWR05"
+			(at 181.61 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 179.07 80.0099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "40d106ba-c1fd-4237-bf63-c93d033b7b8f")
+		)
+		(instances
+			(project "cooldawgs-sensor-module"
+				(path "/3eeec553-5bc7-40ba-aaf7-7113d1b1d799"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
