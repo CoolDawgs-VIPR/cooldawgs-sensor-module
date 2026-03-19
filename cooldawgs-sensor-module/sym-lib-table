@@ -1,6 +1,6 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "C:/Users/Bhargav/Documents/cooldawgs-sensor-module/XIAO_Series_SCH_Symbols/XIAO_Series_SCH_Symbols/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
-  (lib (name "MLX90614ESF-AAA-000-TU")(type "KiCad")(uri "C:/Users/Bhargav/Documents/cooldawgs-sensor-module/MLX90614ESF-AAA-000-TU/MLX90614ESF-AAA-000-TU.kicad_sym")(options "")(descr ""))
-  (lib (name "DHT22")(type "KiCad")(uri "C:/Users/Bhargav/Documents/cooldawgs-sensor-module/DHT22/DHT22.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "${KIPRJMOD}/XIAO_Series_SCH_Symbols/XIAO_Series_SCH_Symbols/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "MLX90614ESF-AAA-000-TU")(type "KiCad")(uri "${KIPRJMOD}/MLX90614ESF-AAA-000-TU/MLX90614ESF-AAA-000-TU.kicad_sym")(options "")(descr ""))
+  (lib (name "DHT22")(type "KiCad")(uri "${KIPRJMOD}/DHT22/DHT22.kicad_sym")(options "")(descr ""))
 )
