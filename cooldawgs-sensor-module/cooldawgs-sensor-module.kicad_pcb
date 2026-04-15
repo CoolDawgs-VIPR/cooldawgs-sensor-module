@@ -535,6 +535,7 @@
 		(property "Value" "MLX90614ESF-AAA-000-TU"
 			(at 5.12 -5.492 90)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "7e8eb71c-88e4-43f2-abfe-eec1bcd72a9a")
 			(effects
 				(font
@@ -1605,6 +1606,7 @@
 		(property "Value" "MLX90614ESF-AAA-000-TU"
 			(at 5.12 -6.346667 90)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "31abbf95-b24e-4f29-8dd7-c33dd2afa4f1")
 			(effects
 				(font
@@ -2184,6 +2186,7 @@
 		(property "Value" "MLX90614ESF-AAA-000-TU"
 			(at 5.12 -5.492 90)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "9b4d4fca-9b39-485c-85c0-0bd7a64654aa")
 			(effects
 				(font
@@ -2763,6 +2766,7 @@
 		(property "Value" "MLX90614ESF-AAA-000-TU"
 			(at 5.12 -5.492 90)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "a0e63aaa-07e2-4896-8e78-5c6ba61564ed")
 			(effects
 				(font
